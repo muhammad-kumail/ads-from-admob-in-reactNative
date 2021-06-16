@@ -15,7 +15,7 @@ import {
 /* googleMobileAdsAppId: ca-app-pub-3940256099942544~3347511713
    in app.json file
 
-   these all are test ad ids*/
+   These all are test ad ids*/
 
 export default function App() {
   useEffect(()=>{
